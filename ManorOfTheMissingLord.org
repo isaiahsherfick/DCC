@@ -1,0 +1,47 @@
+#+title: Manor of the Missing Lord == A DCC Adventure for 4-6 level 1-2 adventurers
+30 Aug 2026
+* TODO Judge Introduction
+** TODO the lord of the land has not been heard from in many months
+** TODO powerful magical monster was attracted to his wealth
+** TODO this monster attracts other monsters
+* TODO Player Introduction
+** TODO the lord of the land has not been heard from in many months
+* TODO Map
+** DONE Lobby
+** TODO "Library" (once a kitchen, lord did not read)
+** TODO Armory
+** TODO Trophy Room
+** TODO Bedroom
+** TODO Wine Cellar
+** TODO Treasury
+* TODO Area Descriptions
+** TODO Lobby
+*** Doors
+A -- To Kitchen
+B -- To Armory
+C -- Mimic Door Trap
+D -- To Armory
+E -- To Dining Room
+F -- To Bedroom
+G -- To Trophy Room
+** TODO "Library" (once a kitchen, lord did not read)
+** TODO Armory
+** TODO Trophy Room
+** TODO Bedroom
+** TODO Wine Cellar
+** TODO Treasury
+* TODO Monsters
+** TODO Big Bad (Treasure Eater) (Seed of a Monster House type thing)
+** TODO Spider
+** TODO Door Mimic Trap (Additional Mouths of the Treasure Eater)
+*** frog/chameleon type tongue shoots out when player opens door
+*** DC 15 Reflex save to avoid the tongue
+*** fleshy throat with barbs lining the wall that cut into the player if they try to climb out
+*** swallowed PCs end up in the stomach in the treasury
+** TODO Swarm of toothed books
+** TODO Living Armor
+* TODO Treasure
+** TODO Golden figurines of the lord
+** TODO Ceremonial gilded armor (poor in combat, but valuable)
+** TODO Treasure Eater's Faeces
+** TODO
