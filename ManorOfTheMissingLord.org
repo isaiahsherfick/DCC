@@ -16,6 +16,8 @@
 ** TODO Treasury
 * TODO Area Descriptions
 ** TODO Lobby
+*** TODO Read-aloud
+*** TODO Key features
 *** Doors
 A -- To Kitchen
 B -- To Armory
@@ -25,14 +27,39 @@ E -- To Dining Room
 F -- To Bedroom
 G -- To Trophy Room
 ** TODO "Library" (once a kitchen, lord did not read)
+*** TODO Read-aloud
+*** TODO Key features
+*** Doors
+A -- To Lobby
+E -- To Lobby
+G -- To Wine Cellar
 ** TODO Armory
+*** TODO Read-aloud
+*** TODO Key features
+*** Doors
 ** TODO Trophy Room
+*** TODO Read-aloud
+*** TODO Key features
+*** Doors
 ** TODO Bedroom
+*** TODO Read-aloud
+*** TODO Key features
+*** Doors
 ** TODO Wine Cellar
+*** TODO Read-aloud
+*** TODO Key features
+*** Doors
 ** TODO Treasury
 * TODO Monsters
 ** TODO Big Bad (Treasure Eater) (Seed of a Monster House type thing)
 ** TODO Spider
+upon entering wine cellar, party must make a luck check. All characters who fail are bitten by a small spider.
+DC 10 Fortitude save
+on fail, player falls prone paralyzed after 1 dungeon turn
+on success, dizzy and sluggish after 1 dungeon turn: -1d on all rolls until >=1 HP is restored by any means
+Big spider emerges and begins dragging paralyzed party members into a burrow it's dug in the far corner of the room
+Servants and cooks are hollowed out in silk cocoons
+
 ** TODO Door Mimic Trap (Additional Mouths of the Treasure Eater)
 *** frog/chameleon type tongue shoots out when player opens door
 *** DC 15 Reflex save to avoid the tongue
@@ -40,8 +67,12 @@ G -- To Trophy Room
 *** swallowed PCs end up in the stomach in the treasury
 ** TODO Swarm of toothed books
 ** TODO Living Armor
+Stays stationary and indiscernable from suits of plate mail until disturbed somehow
+Can be detected by magic users with a DC17 int check
+weapons are inside; they pull them out like sword swallowers when combat starts
 * TODO Treasure
 ** TODO Golden figurines of the lord
 ** TODO Ceremonial gilded armor (poor in combat, but valuable)
 ** TODO Treasure Eater's Faeces
-** TODO
+** TODO Treasure Eater's stomach contents
+** TODO Treasure Eater's heart
