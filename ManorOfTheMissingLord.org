@@ -47,7 +47,11 @@ G -- Trapdoor To Wine Cellar
 ** TODO Bedroom
 *** TODO Read-aloud
 *** TODO Key features
-*** Doors
+- Chamber pot
+- Fine clothes
+- Cigars
+- Whiskey
+- Little elevator down to kitchen
 ** TODO Wine Cellar
 *** TODO Read-aloud
 *** TODO Key features
