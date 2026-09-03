@@ -3,16 +3,16 @@
 * TODO Judge Introduction
 ** TODO the lord of the land has not been heard from in many months
 ** TODO powerful magical monster was attracted to his wealth
-** TODO this monster attracts other monsters
+** TODO this monster's magical energy attracts other monsters
 * TODO Player Introduction
 ** TODO the lord of the land has not been heard from in many months
 * TODO Map
 ** DONE Lobby
-** TODO "Library" (once a kitchen, lord did not read)
-** TODO Armory
+** DONE "Library" (once a kitchen, lord did not read)
+** DONE Armory
 ** TODO Trophy Room
 ** TODO Bedroom
-** TODO Wine Cellar
+** DONE Wine Cellar
 ** TODO Treasury
 * TODO Area Descriptions
 ** TODO Lobby
@@ -32,10 +32,13 @@ G -- To Trophy Room
 *** Doors
 A -- To Lobby
 E -- To Lobby
-G -- To Wine Cellar
+G -- Trapdoor To Wine Cellar
 ** TODO Armory
 *** TODO Read-aloud
 *** TODO Key features
+- three suits of living armor
+- two weapon racks
+- one cupboard (actually the disguised throat of the treasure devourer attached to the false door trap)
 *** Doors
 ** TODO Trophy Room
 *** TODO Read-aloud
