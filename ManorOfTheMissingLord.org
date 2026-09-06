@@ -2,6 +2,19 @@
 30 Aug 2026
 * TODO Judge Introduction
 ** TODO the lord of the land has not been heard from in many months
+    The setting in which this adventure takes place is an ordinary instance
+of feudal society. Peasants toil about their daily lives, farming simple crops,
+raising typical livestock, and producing basic textiles. Over these peasants
+presides a lord. This lord is an arrogant prick who produces nothing useful. He
+frequently visits his peasantry and demands arbitrary taxes and dues with little
+rhyme or reason. He is not popular among the peasantry, but this is the way of
+things. It is easiest to simply grumble "yes, milord", and produce whatever he
+demands. Sometimes it is coin. Sometimes it is the ripest crops of the harvest
+or the choicest cuts of meat. Sometimes it is the eldest son for a territory
+dispute with a neighboring lord. Again, such is the way of things.  Refusing to
+comply is a death sentence at best.
+   This has been the way of things for as long as anyone nearby can remember. At
+least, it was before this latest harvest. As the leaves of autumn settle beneath the chilling winds of change that foreshadow another harsh winter, it marks the hundredth day of complete silence from the lord -- completely unheard of. 
 ** TODO powerful magical monster was attracted to his wealth
 ** TODO this monster's magical energy attracts other monsters
 * TODO Player Introduction
