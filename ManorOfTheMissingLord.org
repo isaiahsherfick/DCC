@@ -79,7 +79,7 @@ a brown adult horse.
   stomach. If the horse misses, it will continue to make bite attacks until it
   either: takes 20 damage, has its tail severed by a Mighty Deed, or
   successfully bites a character and drags them away.
-  - A bitten character loses consciousness before reaching the stomach of the
+- A bitten character loses consciousness before reaching the stomach of the
   devourer. If asked whether the taken character is dead, simply state that if
   the corpse can be located, the character can be turned over.
 - If any of the characters have a magical item or particularly valuable piece of
@@ -98,8 +98,8 @@ a brown adult horse.
 - 100ft rope on the wall
 - Three saddles (use book value)
 *** XP Rewards
-- If the false horse is discovered before an ambush is triggered and either attacked or avoided, reward 3 XP to all players.
-- If a player is ambushed by surprise, reward survivors 1 XP
+- If the false horse is discovered before an ambush is triggered and either attacked or avoided, award 3 XP to all players.
+- If a player is ambushed by surprise, award survivors 1 XP
 ** TODO Lobby
 *** TODO Read-aloud
 You enter
