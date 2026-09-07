@@ -125,24 +125,24 @@ the middle of the room, a curved set of symmetrical wooden stairs meet at the
 first floor, leading to a second floor wooden railing along the northern side of
 the room.
 *** Key features
-- Door C is a mimic door appendage of the Treasure Devourer. A character who
-  opens the door is surprised by a long, slimy black tongue which coils around
-  the character on a successful DC24+4 attack roll. The character may make a DC
-  17 strength check to resist being pulled down into the barbed fleshy throat.
-  The character loses consciousness after one round in the Treasure Devourer's
-  stomach. Describe the interior of the stomach as moist, cramped, and
-  completely dark. If a character attempts to cut their way out of the stomach,
-  it is as though their blade is striking metal. A character who uses their one
-  turn to create any kind of fire in the Treasure Devourer's stomach will cause
-  it to regurgitate its stomach contents back into the lobby. If this is the
-  first area visited since a character was swallowed in the stable, that
-  character's roll-over check automatically succeeds. In addition to the
-  regurgitated characters, 100 half-melted gold pieces, 5000 half-melted silver
-  pieces, and 25,000 half-melted copper pieces float in a puddle of steaming
-  almost-black green sludge that drifts from the door into the lobby. The TD
-  retreats its door-mouth back into the Treasury if this happens.
-  If asked whether the taken character is dead, simply state that if the corpse
-  can be located, the character can be turned over.
+- Door C (the middle door on the eastern wall) is a mimic door appendage of the
+  Treasure Devourer. A character who opens the door is surprised by a long,
+  slimy black tongue which coils around the character on a successful DC24+4
+  attack roll. The character may make a DC 17 strength check to resist being
+  pulled down into the barbed fleshy throat.  The character loses consciousness
+  after one round in the Treasure Devourer's stomach. Describe the interior of
+  the stomach as moist, cramped, and completely dark. If a character attempts to
+  cut their way out of the stomach, it is as though their blade is striking
+  metal. A character who uses their one turn to create any kind of fire in the
+  Treasure Devourer's stomach will cause it to regurgitate its stomach contents
+  back into the lobby. If this is the first area visited since a character was
+  swallowed in the stable, that character's roll-over check automatically
+  succeeds. In addition to the regurgitated characters, 100 half-melted gold
+  pieces, 5000 half-melted silver pieces, and 25,000 half-melted copper pieces
+  float in a puddle of steaming almost-black green sludge that drifts from the
+  door into the lobby. The TD retreats its door-mouth back into the Treasury if
+  this happens.  If asked whether the taken character is dead, simply state that
+  if the corpse can be located, the character can be turned over.
 - A large chandlier worth 100GP hangs from the top of the center of the room.
 *** XP Rewards
 - Reward all characters who were not swallowed by the door 1 XP
@@ -155,7 +155,7 @@ the room.
 - E -- To Dining Room
 - F -- To Bedroom
 - G -- To Trophy Room
-** "Library"/Kitchen+Dining Room
+** STRT "Library"/Kitchen+Dining Room
 *** Read-aloud
 **** Entering from door A (Description of dining room)
 Three floor-to-ceiling bookshelves stand flush against one another on the
@@ -166,10 +166,48 @@ Five floor-to-ceiling bookshelves line the walls of this room. The north wall
 contains an open door.
 *** Key features
 - Bookshelves are false and filled with Vampire Books.
+- If a player says they "look around" or want to "investigate" the room, ask
+  them which room (north or south).
+- There is a trapdoor in the southeastern corner underneath one of the
+  bookshelves which can be discovered with a DC 5 intelligence check by a PC
+  investigating the kitchen. The PCs must move the bookshelf out of the way to
+  access the trapdoor. No check is required to move the bookshelf, but doing so
+  activates all of the Vampire Books if they haven't already been defeated.
+- From either room, a DC 12 intelligence check will give the PC a strong feeling
+  that this room is structured like a kitchen and dining room, not a library.
+- Dwarves are entitled to a DC 5 check to know that the bookshelves are not part
+  of the original room.
+- Elves are entitled to the DC 5 intelligence check to discover the trapdoor
+  upon entering the kitchen.
+- There is a dumb waiter (little elevator for sending food up to the lord's
+  bedroom) in the northern section of the easternmost dining room wall which can
+  be discovered with a DC 5 intelligence check by a PC investigating the dining
+  room. Only a halfling can fit in the dumb waiter to scout out the bedroom.
+**** TODO Vampire Book stat block
 *** Doors
 - A -- To Lobby
 - E -- To Lobby
 - G -- Trapdoor To Wine Cellar
+** STRT Wine Cellar
+*** Read-aloud
+The trapdoor reveals a dusty staircase that descends into a large basement filled floor-to-ceiling with wine racks.
+*** Key features
+- Each PC that descends the stairs must make a Luck check. All characters who
+  fail are bitten by a small spider and must make a DC 10 Fortitude saving
+  throw. on a fail, the PC falls paralyzed after a single dungeon turn and
+  remains paralyzed until >= 1 HP is restored by any means. On a success, the PC
+  becomes dizzy and sluggish after 1 dungeon turn: -1d on all rolls until >=1 HP
+  is restored by any means.
+- The giant spider emerges and begins dragging paralyzed party members into a
+  burrow it's dug in the far corner of the room
+- Servants and cooks are hollowed out in silk cocoons in the burrow.
+- Exquisite spices worth 50 GP can be found in the apron of the head chef if his
+  coccoon is opened by the players.
+- Players can make off with as many bottles of fine wine as they can carry.
+*** XP Rewards
+- Award 2 XP for defeating the giant spider and 1 XP for discovering the
+  exquisite spices.
+*** TODO Giant Spider stat block
 ** TODO Armory
 *** TODO Read-aloud
 *** TODO Key features
@@ -189,21 +227,10 @@ contains an open door.
 - Cigars
 - Whiskey
 - Little elevator down to kitchen
-** TODO Wine Cellar
-*** TODO Read-aloud
-*** TODO Key features
-*** Doors
 ** TODO Treasury
 * TODO Monsters
 ** TODO Big Bad (Treasure Devourer) (Seed of a Monster House type thing)
 ** TODO Spider
-upon entering wine cellar, party must make a luck check. All characters who fail are bitten by a small spider.
-DC 10 Fortitude save
-on fail, player falls prone paralyzed after 1 dungeon turn
-on success, dizzy and sluggish after 1 dungeon turn: -1d on all rolls until >=1 HP is restored by any means
-Big spider emerges and begins dragging paralyzed party members into a burrow it's dug in the far corner of the room
-Servants and cooks are hollowed out in silk cocoons
-
 ** TODO Door Mimic Trap (Additional Mouths of the Treasure Eater)
 ** TODO Swarm of toothed books
 ** TODO Living Armor
@@ -216,3 +243,7 @@ weapons are inside; they pull them out like sword swallowers when combat starts
 ** TODO Treasure Eater's Faeces
 ** TODO Treasure Eater's stomach contents
 ** TODO Treasure Eater's heart
+* TODO Conclusion
+** TODO If Treasure Devourer is defeated
+** TODO If PCs run away / TPK
+** TODO Regardless, where did the spore for this TD originate...? (hook for eventual high-level adult/ancient treasure devourer adventure)
