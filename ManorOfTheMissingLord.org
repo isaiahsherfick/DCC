@@ -62,7 +62,7 @@ allies preparing for the journey ahead.
 * TODO Area Descriptions
 ** Area 0: Stable
 *** Read-aloud
-You enter into a stable that is fairly ordinary, although a bit large for a
+    You enter into a stable that is fairly ordinary, although a bit large for a
 private residence. Three horse-sized stalls line the walls. Three saddles and
 other miscellaneous equestrian supplies hang from the walls, and a heavy musk of
 hay and dirt hangs in the air. One of the three stalls is currently occupied by
@@ -100,10 +100,48 @@ a brown adult horse.
 *** XP Rewards
 - If the false horse is discovered before an ambush is triggered and either attacked or avoided, award 3 XP to all players.
 - If a player is ambushed by surprise, award survivors 1 XP
-** TODO Lobby
-*** TODO Read-aloud
-You enter
-*** TODO Key features
+** Area 0.5: Manor Exterior / Main Entrance
+*** Read-aloud
+    Compared to the thatched-roof cottages and small huts that fill the nearby
+villages and towns, the manor at the top of this hill may as well be a palace.
+The exterior has been painted white, and the trail on which you stand leads to a
+large set of engraved double doors at the center of the southern face.
+*** Key features
+- Double doors are unlocked and untrapped
+- If characters circumnavigate the building, the western wall contains two
+  windows on the second story (15ft up), one of which is halfway open. This
+  window leads to Area 5, the bedroom.
+** Lobby
+*** Read-aloud
+    The double doors reveal a large lobby with a 25 foot ceiling. The floor is
+black-and-white checkered stone. On the first floor, two closed wooden doors sit
+along the west wall, and three closed wooden doors sit along the east wall. In
+the middle of the room, a curved set of symmetrical wooden stairs meet at the
+first floor, leading to a second floor wooden railing along the northern side of
+the room.
+*** Key features
+- Door C is a mimic door appendage of the Treasure Devourer. A character who
+  opens the door is surprised by a long, slimy black tongue which coils around
+  the character on a successful DC24+4 attack roll. The character may make a DC
+  17 strength check to resist being pulled down into the barbed fleshy throat.
+  The character loses consciousness after one round in the Treasure Devourer's
+  stomach. Describe the interior of the stomach as moist, cramped, and
+  completely dark. If a character attempts to cut their way out of the stomach,
+  it is as though their blade is striking metal. A character who uses their one
+  turn to create any kind of fire in the Treasure Devourer's stomach will cause
+  it to regurgitate its stomach contents back into the lobby. If this is the
+  first area visited since a character was swallowed in the stable, that
+  character's roll-over check automatically succeeds. In addition to the
+  regurgitated characters, 100 half-melted gold pieces, 5000 half-melted silver
+  pieces, and 25,000 half-melted copper pieces float in a puddle of steaming
+  almost-black green sludge that drifts from the door into the lobby. The TD
+  retreats its door-mouth back into the Treasury if this happens.
+  If asked whether the taken character is dead, simply state that if the corpse
+  can be located, the character can be turned over.
+- A large chandlier worth 100GP hangs from the top of the center of the room.
+*** XP Rewards
+- Reward all characters who were not swallowed by the door 1 XP
+- If the treasurer devourer is forced to regurgitate, reward all characters 3 XP.
 *** Doors
 - A -- To Kitchen
 - B -- To Armory
@@ -112,9 +150,17 @@ You enter
 - E -- To Dining Room
 - F -- To Bedroom
 - G -- To Trophy Room
-** TODO "Library" (once a kitchen, lord did not read)
-*** TODO Read-aloud
-*** TODO Key features
+** "Library"/Kitchen+Dining Room
+*** Read-aloud
+**** Entering from door A (Description of Dining Room)
+Three floor-to-ceiling bookshelves stand flush against one another on the
+western wall of this room filled with colorful volumes. A long 30 foot dining
+table surrounded by ten stools sits in the center of the room.
+**** Entering from door E
+Five floor-to-ceiling bookshelves line the walls of this room. The north wall
+contains an open door.
+*** Key features
+- Bookshelves are false and filled with Vampire Books.
 *** Doors
 - A -- To Lobby
 - E -- To Lobby
@@ -154,10 +200,6 @@ Big spider emerges and begins dragging paralyzed party members into a burrow it'
 Servants and cooks are hollowed out in silk cocoons
 
 ** TODO Door Mimic Trap (Additional Mouths of the Treasure Eater)
-*** frog/chameleon type tongue shoots out when player opens door
-*** DC 15 Reflex save to avoid the tongue
-*** fleshy throat with barbs lining the wall that cut into the player if they try to climb out
-*** swallowed PCs end up in the stomach in the treasury
 ** TODO Swarm of toothed books
 ** TODO Living Armor
 Stays stationary and indiscernable from suits of plate mail until disturbed somehow
