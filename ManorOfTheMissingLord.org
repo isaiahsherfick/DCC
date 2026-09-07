@@ -12,6 +12,7 @@ Sometimes it is coin. Sometimes it is the ripest crops of the harvest or the
 choicest cuts of meat. Sometimes it is the eldest son for a territory dispute
 with a neighboring lord. Again, such is the way of things.  Refusing to comply
 is a death sentence at best.
+
    This has been the way of things for as long as anyone nearby can remember. At
 least, it was -- before this latest harvest. As the leaves of autumn settle beneath
 the chilling winds of change that foreshadow another harsh winter, it marks the
@@ -23,6 +24,7 @@ the trek to his lavish manor and stuffing their pockets with his treasure and
 riches? As more and more time passes without anyone receiving so much as a
 collection letter from the lord, this idea becomes more and more tantalizing in
 the peoples' minds.
+
     Unbeknownst to the players, the lord of the land is in fact dead. His greed
 and wealth attracted a Treasure Devourer to his manor about a year ago, a
 magical monstrosity that feeds on treasure. The Treasure Devourer begins its
@@ -34,7 +36,7 @@ settlements in extreme cases. The larger they get, the more powerful their
 magical energy. This energy attracts other nearby monsters and beings sensitive
 to a magical presence.
 * Player Introduction (Read Aloud)
-As you all have known for most of your lives, the lord of the land is an
+    As you all have known for most of your lives, the lord of the land is an
 arrogant prick who produces nothing useful. He frequently visits his peasantry
 demanding arbitrary taxes and dues with little rhyme or reason. He is not
 popular among the peasantry, but this is the way of things. It is easiest to
@@ -43,10 +45,12 @@ coin. Sometimes it is the ripest crops of the harvest or the choicest cuts of
 meat. Sometimes it is the eldest son for a territory dispute with a neighboring
 lord. Again, such is the way of things.  Refusing to comply is a death sentence
 at best.
+
    This has been the way of things for as long as anyone nearby can remember. At
 least, it was -- before this latest harvest. As the leaves of autumn settle
 beneath the chilling winds of change that foreshadow another harsh winter, it
 marks the hundredth day of total silence from the lord -- completely unheard of.
+
     Rumors have begun to spread among the commonfolk of the region; what has
 happened to the lord? Has he fallen victim to some kind of illness? Has he
 journeyed away to some distant land? And, most importantly, what's stopping one
@@ -57,6 +61,7 @@ tantalizing in the peoples' minds. If he truly is gone or dead, riches await.
 However, if that isn't the case, he will almost certainly demand the heads of
 whatever brigands and thieves dared to seek his doorstep looking to rob his
 grave.
+
     You have decided the risk is now worth the reward. You stand with your
 allies preparing for the journey ahead.
 * TODO Area Descriptions
@@ -152,11 +157,11 @@ the room.
 - G -- To Trophy Room
 ** "Library"/Kitchen+Dining Room
 *** Read-aloud
-**** Entering from door A (Description of Dining Room)
+**** Entering from door A (Description of dining room)
 Three floor-to-ceiling bookshelves stand flush against one another on the
 western wall of this room filled with colorful volumes. A long 30 foot dining
 table surrounded by ten stools sits in the center of the room.
-**** Entering from door E
+**** Entering from door E (Description of kitchen)
 Five floor-to-ceiling bookshelves line the walls of this room. The north wall
 contains an open door.
 *** Key features
