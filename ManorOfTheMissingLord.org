@@ -210,10 +210,14 @@ The trapdoor reveals a dusty staircase that descends into a large basement fille
 *** TODO Giant Spider stat block
 ** TODO Armory
 *** TODO Read-aloud
+Three full suits of well-constructed plate armor stand upright on display stands along the eastern wall of this long room. The north and south walls are decorated with weapon racks. All of the weapons and armor are polished and unmarked. The western wall contains three doors.
 *** TODO Key features
 - three suits of living armor
 - two weapon racks
 - one cupboard (actually the disguised throat of the treasure devourer attached to the false door trap)
+- TODO weapons
+
+
 *** Doors
 ** TODO Trophy Room
 *** TODO Read-aloud
