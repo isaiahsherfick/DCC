@@ -155,7 +155,7 @@ the room.
 - E -- To Dining Room
 - F -- To Bedroom
 - G -- To Trophy Room
-** STRT "Library"/Kitchen+Dining Room
+** "Library"/Kitchen+Dining Room
 *** Read-aloud
 **** Entering from door A (Description of dining room)
 Three floor-to-ceiling bookshelves stand flush against one another on the
@@ -165,7 +165,8 @@ table surrounded by ten stools sits in the center of the room.
 Five floor-to-ceiling bookshelves line the walls of this room. The north wall
 contains an open door.
 *** Key features
-- Bookshelves are false and filled with Vampire Books.
+- Bookshelves are false and filled with 6 Vampire Book Swarms.
+- Vampire Book swarm - Init +2 - Atk bite +5 melee (1d4 + 1) - AC 9 - HD 1d8
 - If a player says they "look around" or want to "investigate" the room, ask
   them which room (north or south).
 - There is a trapdoor in the southeastern corner underneath one of the
@@ -183,12 +184,11 @@ contains an open door.
   bedroom) in the northern section of the easternmost dining room wall which can
   be discovered with a DC 5 intelligence check by a PC investigating the dining
   room. Only a halfling can fit in the dumb waiter to scout out the bedroom.
-**** TODO Vampire Book stat block
 *** Doors
 - A -- To Lobby
 - E -- To Lobby
 - G -- Trapdoor To Wine Cellar
-** STRT Wine Cellar
+** Wine Cellar
 *** Read-aloud
 The trapdoor reveals a dusty staircase that descends into a large basement filled floor-to-ceiling with wine racks.
 *** Key features
@@ -200,6 +200,7 @@ The trapdoor reveals a dusty staircase that descends into a large basement fille
   is restored by any means.
 - The giant spider emerges and begins dragging paralyzed party members into a
   burrow it's dug in the far corner of the room
+- Giant Spider - Init +5 - Atk bite +6 melee (1d7) - AC 12 - HD 4d6
 - Servants and cooks are hollowed out in silk cocoons in the burrow.
 - Exquisite spices worth 50 GP can be found in the apron of the head chef if his
   coccoon is opened by the players.
@@ -207,40 +208,70 @@ The trapdoor reveals a dusty staircase that descends into a large basement fille
 *** XP Rewards
 - Award 2 XP for defeating the giant spider and 1 XP for discovering the
   exquisite spices.
-*** TODO Giant Spider stat block
-** TODO Armory
-*** TODO Read-aloud
-Three full suits of well-constructed plate armor stand upright on display stands along the eastern wall of this long room. The north and south walls are decorated with weapon racks. All of the weapons and armor are polished and unmarked. The western wall contains three doors.
-*** TODO Key features
+** Armory
+*** Read-aloud
+Three full suits of well-constructed playe armor stand upright on display diases along the eastern wall of this long room. The north and south walls are decorated with weapon racks. The western wall contains three doors.
+*** Key features
+>>>>>>> b2446c7 (progress)
 - three suits of living armor
+- Living Armor - Init +0 - Atk bite +6 melee (1d7) - AC 7 - HD 3d6
 - two weapon racks
-- one cupboard (actually the disguised throat of the treasure devourer attached to the false door trap)
-- TODO weapons
-
-
-*** Doors
-** TODO Trophy Room
-*** TODO Read-aloud
-*** TODO Key features
-*** Doors
-** TODO Bedroom
-*** TODO Read-aloud
-*** TODO Key features
+- false door, exactly like the one on the other side in the lobby. If the TD
+  already regurgitated, the appendage has withdrawn and the door simply opens
+  into a slimy dark vertical column.
+*** XP Rewards
+Award 1 XP for defeating the living armor.
+** Bedroom
+*** Read-aloud
+The stench of ripe sewage immediately assaults you upon opening this door. This
+is clearly the lord's bedroom. Two windows line the western wall, one on each
+side of the large bed. A wall-sized mirror sits on the north wall. Two wardrobes
+line the southern wall. The window on the south side of the bed is open. A
+chamber pot sits on the floor between the bed and the open window.
+*** Key features
 - Bed
+- Mirror
+- Chamber pot (unemptied)
 - Two wardrobes (one is another Treasure Devourer mouth, one contains fine clothes and the key to the treasury)
 - Cigars
 - Whiskey
-- Little elevator down to kitchen
-** TODO Treasury
-* TODO Monsters
-** TODO Big Bad (Treasure Devourer) (Seed of a Monster House type thing)
-** TODO Spider
-** TODO Door Mimic Trap (Additional Mouths of the Treasure Eater)
-** TODO Swarm of toothed books
-** TODO Living Armor
-Stays stationary and indiscernable from suits of plate mail until disturbed somehow
-Can be detected by magic users with a DC17 int check
-weapons are inside; they pull them out like sword swallowers when combat starts
+- Dumb waiter (little elevator down to kitchen) DC 10 intelligence -- only a halfling can fit
+*** XP Rewards
+- Award 1 XP to survivors if the TD takes a victim.
+** Trophy Room
+*** Read-aloud
+This dusty room contains a chest along the north wall. The east wall holds the
+heads of two large deer mounted on the wall.  An exquisitely-crafted oak table
+fills the center of the room. On the table is an assortment of small statues,
+gems, and elaborate decorative knives and shortswords. There is an iron door on
+the south wall.
+*** Key features
+- This is the only iron door. It is locked and can only be opened with the key
+  found in the bedroom or a DC 20 agility check.
+- 3 gem-encrusted blades (2 daggers, 1 shortsword) worth twice their normal GP
+  value.
+- Behind the northernmost deer head is a hidden scroll containing a random level
+  1 spell. Elves are entitled to a check to discover the hidden compartment, DC 15.
+- Small black tentacles can be seen under the door if investigated.
+** Treasury (Treasure Devourer's Lair)
+*** Read-aloud
+This L-shaped room extends south and bends to the west. The floor, walls, and
+ceiling are covered in long, throbbing masses of jet black flesh, akin to a huge
+network of tree roots originating from the southern side of the room. The flesh
+roots converge on a hulking, lumpy, pile of flesh covered in hundreds of
+all-white eyes and misshapen mouths. The creature's mouths open and shut and
+babble nonsesical noises over one another with no orchestration or rhythm. Teeth
+clatter together. Occasional tar-like bubbles form and pop, releasing visible
+steam. Suddenly, you feel a rumbling in the walls of the manor as long,
+throbbing appendages tear through the house. Small tentacles extend from the
+bottom of the creature and it begins to crawl toward you as three huge tentacles
+covered in splinters and dirt are extended toward you. One of the tentacles
+contains the limp, broken corpse of a horse; another ends in a doorframe, and
+another ends with a wardrobe. All three contain gaping mouths which chomp at the
+air as they extend toward you with alarming speed.
+*** TODO Key features
+- Treasure Devourer
+- If
 * TODO Treasure
 ** TODO Golden figurines of the lord
 ** TODO Ceremonial gilded armor (poor in combat, but valuable)
