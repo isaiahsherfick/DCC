@@ -1,0 +1,525 @@
+            _______________________________________________
+
+                       MANOR OF THE MISSING LORD
+             A DCC Adventure for 4-6 level 1-2 adventurers
+
+                            Isaiah Sherfick
+            _______________________________________________
+
+
+Table of Contents
+_________________
+
+1. Judge Introduction
+2. Player Introduction (Read Aloud)
+3. Area Descriptions
+.. 1. Area 0: Stable
+..... 1. Read-aloud
+..... 2. Judge Notes
+..... 3. Lootables
+..... 4. XP Rewards
+.. 2. Area 0.5: Manor Exterior / Main Entrance
+..... 1. Read-aloud
+..... 2. Key features
+.. 3. Lobby
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. XP Rewards
+..... 4. Doors
+.. 4. "Library"/Kitchen+Dining Room
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. Doors
+.. 5. Wine Cellar
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. XP Rewards
+.. 6. Armory
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. XP Rewards
+.. 7. Bedroom
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. XP Rewards
+.. 8. Trophy Room
+..... 1. Read-aloud
+..... 2. Key features
+.. 9. Treasury (Treasure Devourer's Lair)
+..... 1. Read-aloud
+..... 2. Key features
+..... 3. Read-aloud after TD is defeated
+..... 4. Stomach contents
+4. Conclusion
+
+
+1 Judge Introduction
+====================
+
+      The setting in which this adventure takes place is an ordinary
+  instance of feudal society. Peasants toil about their daily lives,
+  farming simple crops, raising livestock, and producing basic textiles.
+  Over these peasants presides a lord. Unbeknownst to the players, the
+  lord of the land is in fact dead. His greed and wealth attracted a
+  Treasure Devourer to his manor about a year ago, a magical monstrosity
+  that feeds on treasure. The Treasure Devourer begins its lifecycle as
+  a single microscopic spore, then plants itself like a fungus in a
+  treasury. If noticed early, Treasure Devourers can be taken care of
+  with relative ease. Left unchecked to grow and feed on a vast amount
+  of wealth and treasure, they can grow to immense size and overtake
+  entire rooms, buildings, or settlements in extreme cases. The larger
+  they get, the more powerful their magical energy. This energy attracts
+  other nearby monsters and beings sensitive to a magical presence.
+
+
+2 Player Introduction (Read Aloud)
+==================================
+
+      As you all have known for most of your lives, the lord of the land
+  is an arrogant prick who produces nothing useful. He frequently visits
+  his peasantry demanding arbitrary taxes and dues with little rhyme or
+  reason. He is not popular among the peasantry, but this is the way of
+  things. It is easiest to simply grumble "yes, milord," and produce
+  whatever he demands. Sometimes it is coin. Sometimes it is the ripest
+  crops of the harvest or the choicest cuts of meat. Sometimes it is the
+  eldest son for a territory dispute with a neighboring lord. Again,
+  such is the way of things. Refusing to comply is a death sentence at
+  best.
+
+     This has been the way of things for as long as anyone nearby can
+  remember. At least, it was -- before this latest harvest. As the
+  leaves of autumn settle beneath the chilling winds of change that
+  foreshadow another harsh winter, it marks the hundredth day of total
+  silence from the lord -- totally unheard of.
+
+      Rumors have begun to spread among the commonfolk of the region;
+  what has happened to the lord? Has he fallen victim to some kind of
+  illness? Has he journeyed away to some distant land? And, most
+  importantly, what's stopping one of us from making the trek to his
+  lavish manor and stuffing our pockets with his treasure and riches? As
+  more and more time passes without anyone receiving so much as a
+  collection letter from the lord, this idea becomes more and more
+  tantalizing in the peoples' minds. If he truly is gone or dead, riches
+  await. However, if that isn't the case, he will almost certainly
+  demand the heads of whatever brigands and thieves dared to seek his
+  doorstep looking to rob his grave.
+
+      You have decided the risk is now worth the reward. You stand with
+  your allies preparing for the journey ahead.
+
+
+3 Area Descriptions
+===================
+
+3.1 Area 0: Stable
+~~~~~~~~~~~~~~~~~~
+
+3.1.1 Read-aloud
+----------------
+
+      You enter into a stable that is fairly ordinary, although a bit
+  large for a private residence. Three horse-sized stalls line the
+  walls. Three saddles and other miscellaneous equestrian supplies hang
+  from the walls, and a heavy musk of hay and dirt hangs in the air. One
+  of the three stalls is currently occupied by a brown adult horse.
+
+
+3.1.2 Judge Notes
+-----------------
+
+  - Horse is actually a disguised appendage of the Treasure Devourer
+    waiting to ambush creatures that get too close
+  - Horse is "breathing" (chest is rising and falling) but air is not
+    passing (Intelligence DC15)
+  - Horse's tail is sitting still in a pile of hay. The tail is actually
+    a long, veiny appendage that connects to the TD all the way back in
+    the treasury. (Intelligence DC15)
+  - The horse will make a surprise bite attack on the first player to
+    enter the still and get close to the horse. d24 + 2 to hit. The
+    Treasure Devourer will then pull the character into the ground and
+    straight to its stomach. If the horse misses, it will continue to
+    make bite attacks until it either: takes 20 damage, has its tail
+    severed by a Mighty Deed, or successfully bites a character and
+    drags them away.
+  - A bitten character loses consciousness before reaching the stomach
+    of the devourer. If asked whether the taken character is dead,
+    simply state that if the corpse can be located, the character can be
+    turned over.
+  - If any of the characters have a magical item or particularly
+    valuable piece of treasure on their person, the horse will
+    prioritize that character or specific piece of gear if it makes
+    sense.
+  - For example, if one player has a magical sword on their belt, the
+    horse will bite the sword instead of the character. Have the PC make
+    a Luck check -- on fail, they are dragged down with the sword. On
+    success, it is ripped from their belt and they are spared.
+  - If attacked from a distance, the horse immediately retreats.
+  - Whether it successfully ambushes a character or retreats, be sure to
+    viscerally describe the way the horse's bones break upwards and
+    crunch as it is forced through the small tunnel that was dug by the
+    appendage of the Treasure Devourer.
+
+
+3.1.3 Lootables
+---------------
+
+  - 100ft rope on the wall
+  - Three saddles (use book value)
+
+
+3.1.4 XP Rewards
+----------------
+
+  - If the false horse is discovered before an ambush is triggered and
+    either attacked or avoided, award 3 XP to all players.
+  - If a player is ambushed by surprise, award survivors 1 XP
+
+
+3.2 Area 0.5: Manor Exterior / Main Entrance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3.2.1 Read-aloud
+----------------
+
+      Compared to the thatched-roof cottages and small huts that fill
+  the nearby villages and towns, the manor at the top of this hill may
+  as well be a palace. The exterior has been painted white, and the
+  trail on which you stand leads to a large set of engraved double doors
+  at the center of the southern face.
+
+
+3.2.2 Key features
+------------------
+
+  - Double doors are unlocked and untrapped
+  - If characters circumnavigate the building, the western wall contains
+    two windows on the second story (15ft up), one of which is halfway
+    open. This window leads to Area 5, the bedroom.
+
+
+3.3 Lobby
+~~~~~~~~~
+
+3.3.1 Read-aloud
+----------------
+
+      The double doors reveal a large lobby with a 25 foot ceiling. The
+  floor is black-and-white checkered stone. On the first floor, two
+  closed wooden doors sit along the west wall, and three closed wooden
+  doors sit along the east wall. In the middle of the room, a curved set
+  of symmetrical wooden stairs meet at the first floor, leading to a
+  second floor wooden railing along the northern side of the room.
+
+
+3.3.2 Key features
+------------------
+
+  - Door C (the middle door on the eastern wall) is a mimic door
+    appendage of the Treasure Devourer. A character who opens the door
+    is surprised by a long, slimy black tongue which coils around the
+    character on a successful d24+4 attack roll. The character may make
+    a DC 17 strength check to resist being pulled down into the barbed
+    fleshy throat. The character loses consciousness after one round in
+    the Treasure Devourer's stomach. Describe the interior of the
+    stomach as moist, cramped, and completely dark. If a character
+    attempts to cut their way out of the stomach, it is as though their
+    blade is striking metal. A character who uses their one turn to
+    create any kind of fire in the Treasure Devourer's stomach will
+    cause it to regurgitate its stomach contents back into the lobby. If
+    this is the first area visited since a character was swallowed in
+    the stable, that character's roll-over check automatically succeeds.
+    In addition to the regurgitated characters, 100 half-melted gold
+    pieces, 5000 half-melted silver pieces, and 25,000 half-melted
+    copper pieces float in a puddle of steaming almost-black golden-hued
+    sludge that drifts from the door into the lobby. The TD retreats its
+    door-mouth back into the Treasury if this happens. If asked whether
+    the taken character is dead, simply state that if the corpse can be
+    located, the character can be turned over.
+  - A large chandlier worth 100GP hangs from the top of the center of
+    the room.
+
+
+3.3.3 XP Rewards
+----------------
+
+  - Reward all characters who were not swallowed by the door 1 XP
+  - If the treasurer devourer is forced to regurgitate, reward all
+    characters 3 XP.
+
+
+3.3.4 Doors
+-----------
+
+  - A -- To Kitchen
+  - B -- To Armory
+  - C -- Mimic Door Trap
+  - D -- To Armory
+  - E -- To Dining Room
+  - F -- To Bedroom
+  - G -- To Trophy Room
+
+
+3.4 "Library"/Kitchen+Dining Room
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3.4.1 Read-aloud
+----------------
+
+* 3.4.1.1 Entering from door A (Description of dining room)
+
+  Three floor-to-ceiling bookshelves stand flush against one another on
+  the western wall of this room filled with colorful volumes. A long 30
+  foot dining table surrounded by ten stools sits in the center of the
+  room.
+
+
+* 3.4.1.2 Entering from door E (Description of kitchen)
+
+  Five floor-to-ceiling bookshelves line the walls of this room. The
+  north wall contains an open door.
+
+
+3.4.2 Key features
+------------------
+
+  - Bookshelves are false and filled with 6 Vampire Book Swarms.
+  - Vampire Book swarm - Init +2 - Atk bite +5 melee (1d4 + 1) - AC 9 -
+    HD 1d8
+  - If a player says they "look around" or want to "investigate" the
+    room, ask them which room (north or south).
+  - There is a trapdoor in the southeastern corner underneath one of the
+    bookshelves which can be discovered with a DC 5 intelligence check
+    by a PC investigating the kitchen. The PCs must move the bookshelf
+    out of the way to access the trapdoor. No check is required to move
+    the bookshelf, but doing so activates all of the Vampire Books if
+    they haven't already been defeated.
+  - From either room, a DC 12 intelligence check will give the PC a
+    strong feeling that this room is structured like a kitchen and
+    dining room, not a library.
+  - Dwarves are entitled to a DC 5 check to know that the bookshelves
+    are not part of the original room.
+  - Elves are entitled to the DC 5 intelligence check to discover the
+    trapdoor upon entering the kitchen.
+  - There is a dumb waiter (little elevator for sending food up to the
+    lord's bedroom) in the northern section of the easternmost dining
+    room wall which can be discovered with a DC 5 intelligence check by
+    a PC investigating the dining room. Only a halfling can fit in the
+    dumb waiter to scout out the bedroom.
+
+
+3.4.3 Doors
+-----------
+
+  - A -- To Lobby
+  - E -- To Lobby
+  - G -- Trapdoor To Wine Cellar
+
+
+3.5 Wine Cellar
+~~~~~~~~~~~~~~~
+
+3.5.1 Read-aloud
+----------------
+
+  The trapdoor reveals a dusty staircase that descends into a large
+  basement filled floor-to-ceiling with wine racks.
+
+
+3.5.2 Key features
+------------------
+
+  - Each PC that descends the stairs must make a Luck check. All
+    characters who fail are bitten by a small spider and must make a DC
+    10 Fortitude saving throw. on a fail, the PC falls paralyzed after a
+    single dungeon turn and remains paralyzed until >= 1 HP is restored
+    by any means. On a success, the PC becomes dizzy and sluggish after
+    1 dungeon turn: -1d on all rolls until >=1 HP is restored by any
+    means.
+  - The giant spider emerges and begins dragging paralyzed party members
+    into a burrow it's dug in the far corner of the room
+  - Giant Spider - Init +5 - Atk bite +6 melee (1d7) - AC 12 - HD 4d6
+  - Servants and cooks are hollowed out in silk cocoons in the burrow.
+  - Exquisite spices worth 50 GP can be found in the apron of the head
+    chef if his coccoon is opened by the players.
+  - Players can make off with as many bottles of fine wine as they can
+    carry.
+
+
+3.5.3 XP Rewards
+----------------
+
+  - Award 2 XP for defeating the giant spider and 1 XP for discovering
+    the exquisite spices.
+
+
+3.6 Armory
+~~~~~~~~~~
+
+3.6.1 Read-aloud
+----------------
+
+  Three full suits of well-constructed plate armor stand upright on
+  display diases along the eastern wall of this long room. The north and
+  south walls are decorated with weapon racks. The western wall contains
+  three doors.
+
+
+3.6.2 Key features
+------------------
+
+  - three suits of living armor
+  - Living Armor - Init +0 - Atk bite +6 melee (1d7) - AC 7 - HD 3d6
+  - two weapon racks
+  - false door, exactly like the one on the other side in the lobby. If
+    the TD already regurgitated, the appendage has withdrawn and the
+    door simply opens into a slimy dark vertical column.
+
+
+3.6.3 XP Rewards
+----------------
+
+  Award 1 XP for defeating the living armor.
+
+
+3.7 Bedroom
+~~~~~~~~~~~
+
+3.7.1 Read-aloud
+----------------
+
+  The stench of ripe sewage immediately assaults you upon opening this
+  door. This is clearly the lord's bedroom. Two windows line the western
+  wall, one on each side of the large bed. A wall-sized mirror sits on
+  the north wall. Two wardrobes line the southern wall. The window on
+  the south side of the bed is open. A chamber pot sits on the floor
+  between the bed and the open window.
+
+
+3.7.2 Key features
+------------------
+
+  - Bed
+  - Mirror
+  - Chamber pot (unemptied)
+  - Two wardrobes (one is another Treasure Devourer mouth, one contains
+    fine clothes and the key to the treasury)
+  - Cigars
+  - Whiskey
+  - Dumb waiter (little elevator down to kitchen) DC 10 intelligence --
+    only a halfling can fit
+
+
+3.7.3 XP Rewards
+----------------
+
+  - Award 1 XP to survivors if the TD takes a victim.
+
+
+3.8 Trophy Room
+~~~~~~~~~~~~~~~
+
+3.8.1 Read-aloud
+----------------
+
+  This dusty room contains a chest along the north wall. The east wall
+  holds the heads of two large deer mounted on the wall. An
+  exquisitely-crafted oak table fills the center of the room. On the
+  table is an assortment of small statues, gems, and elaborate
+  decorative knives and shortswords. There is an iron door on the south
+  wall.
+
+
+3.8.2 Key features
+------------------
+
+  - This is the only iron door. It is locked and can only be opened with
+    the key found in the bedroom or a DC 20 agility check.
+  - 3 gem-encrusted blades (2 daggers, 1 shortsword) worth twice their
+    normal GP value.
+  - Behind the northernmost deer head is a hidden scroll containing a
+    random level 1 spell. Elves are entitled to a check to discover the
+    hidden compartment, DC 15.
+  - Small black tentacles can be seen under the door if investigated.
+
+
+3.9 Treasury (Treasure Devourer's Lair)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3.9.1 Read-aloud
+----------------
+
+  This L-shaped room extends south and bends to the west. The floor,
+  walls, and ceiling are covered in long, throbbing masses of jet black
+  flesh, akin to a huge network of tree roots originating from the
+  southern side of the room. The flesh roots converge on a hulking,
+  lumpy, pile of flesh covered in hundreds of all-white eyes and
+  misshapen mouths. The creature's mouths open and shut and babble
+  nonsesical noises over one another with no orchestration or rhythm.
+  Teeth clatter together. Occasional tar-like bubbles form and pop,
+  releasing visible steam. Suddenly, you feel a rumbling in the walls of
+  the manor as long, throbbing appendages tear through the house. Small
+  tentacles extend from the bottom of the creature and it begins to
+  crawl toward you as three huge tentacles covered in splinters and dirt
+  are extended toward you. One of the tentacles contains the limp,
+  broken corpse of a horse; another ends in a doorframe, and another
+  ends with a wardrobe. All three contain gaping mouths which chomp at
+  the air as they extend toward you with alarming speed.
+
+
+3.9.2 Key features
+------------------
+
+  - Treasure Devourer
+  - Init + 10
+  - 1d20 action die head
+  - 3d16 action die tentacles (only while tentacles remain attached)
+  - Body AC 14 HP 10d8
+  - Tentacle (x3) AC 10 HP 2d6
+  - Atk tentacle +2 melee (1d4) range 60ft, enemy grappled on success
+    and pulled toward mouth
+  - Atk bite +4 melee (1d12) range 5ft
+  - On a crit, character is swallowed and takes their next turn in the
+    stomach. One turn later they fall unconscious.
+  - TD is vulnerable to fire (double damage)
+  - Characters in the stomach who produce flame are regurgitated.
+  - TD blood is a thick, slimy golden-hued color.
+
+
+3.9.3 Read-aloud after TD is defeated
+-------------------------------------
+
+  The monstrosity's huge mass of flesh gradually begins to cease all
+  movement. Air cavities and bubbles are the last to settle. Soon, all
+  is still in the room except for your breathing and the sound of blood
+  draining from the creature. Slowly, the creature's body deflates as
+  more and more thick golden blood oozes out of it. As the creature
+  deflates, you realize that it was actually obstructing the remaining
+  area of the room. Sinewy, stringy blood vessels and other organic
+  tubes of varying thickness, including man-sized throats linked to the
+  large tentacles extend from the back of the deflated corpse into the
+  back of the room, where another large, bulbous bag of smooth black
+  flesh lies. The outline of several man-shaped objects can be seen
+  inside of the bag of flesh.
+
+
+3.9.4 Stomach contents
+----------------------
+
+  - Swallowed characters
+  - Characters swallowed less than five dungeon turns ago are alive. All
+    other swallowed characters get rolled over.
+  - Half-digested corpses of the lord and his two honor guards
+  - 100 half-melted gold pieces, 5000 half-melted silver pieces, and
+    25,000 half-melted copper pieces
+  - any character who digs into the stomach and searches deeper will
+    find 1d4 large pearls made of melted diamonds, rubies, and other
+    rare gems. They are bowling ball sized and smooth like a surface of
+    glass.
+
+
+4 Conclusion
+============
+
+  As you stand with your comrades amid the viscera and treasure, one
+  singular thought begins to creep into your minds: where the hell did
+  this thing come from?

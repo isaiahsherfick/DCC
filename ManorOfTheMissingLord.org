@@ -1,30 +1,11 @@
-#+title: Manor of the Missing Lord == A DCC Adventure for 4-6 level 1-2 adventurers
-30 Aug 2026
+#+title: Manor of the Missing Lord
+#+subtitle: A DCC Adventure for 4-6 level 1-2 adventurers
+#+author: Isaiah Sherfick
 * Judge Introduction
     The setting in which this adventure takes place is an ordinary instance
 of feudal society. Peasants toil about their daily lives, farming simple crops,
 raising livestock, and producing basic textiles. Over these peasants presides a
-lord. This lord is an arrogant prick who produces nothing useful. He frequently
-visits his peasantry demanding arbitrary taxes and dues with little rhyme or
-reason. He is not popular among the peasantry, but this is the way of things. It
-is easiest to simply grumble "yes, milord," and produce whatever he demands.
-Sometimes it is coin. Sometimes it is the ripest crops of the harvest or the
-choicest cuts of meat. Sometimes it is the eldest son for a territory dispute
-with a neighboring lord. Again, such is the way of things.  Refusing to comply
-is a death sentence at best.
-
-   This has been the way of things for as long as anyone nearby can remember. At
-least, it was -- before this latest harvest. As the leaves of autumn settle beneath
-the chilling winds of change that foreshadow another harsh winter, it marks the
-hundredth day of complete silence from the lord -- completely unheard of. Rumors
-have begun to spread among the commonfolk of the region; what has happened to
-the lord? Has he fallen victim to some kind of illness? Has he journeyed away to
-some distant land? And, most importantly, what's stopping one of us from making
-the trek to his lavish manor and stuffing their pockets with his treasure and
-riches? As more and more time passes without anyone receiving so much as a
-collection letter from the lord, this idea becomes more and more tantalizing in
-the peoples' minds.
-
+lord.
     Unbeknownst to the players, the lord of the land is in fact dead. His greed
 and wealth attracted a Treasure Devourer to his manor about a year ago, a
 magical monstrosity that feeds on treasure. The Treasure Devourer begins its
@@ -49,7 +30,7 @@ at best.
    This has been the way of things for as long as anyone nearby can remember. At
 least, it was -- before this latest harvest. As the leaves of autumn settle
 beneath the chilling winds of change that foreshadow another harsh winter, it
-marks the hundredth day of total silence from the lord -- completely unheard of.
+marks the hundredth day of total silence from the lord -- totally unheard of.
 
     Rumors have begun to spread among the commonfolk of the region; what has
 happened to the lord? Has he fallen victim to some kind of illness? Has he
@@ -64,7 +45,7 @@ grave.
 
     You have decided the risk is now worth the reward. You stand with your
 allies preparing for the journey ahead.
-* TODO Area Descriptions
+* Area Descriptions
 ** Area 0: Stable
 *** Read-aloud
     You enter into a stable that is fairly ordinary, although a bit large for a
@@ -127,7 +108,7 @@ the room.
 *** Key features
 - Door C (the middle door on the eastern wall) is a mimic door appendage of the
   Treasure Devourer. A character who opens the door is surprised by a long,
-  slimy black tongue which coils around the character on a successful DC24+4
+  slimy black tongue which coils around the character on a successful d24+4
   attack roll. The character may make a DC 17 strength check to resist being
   pulled down into the barbed fleshy throat.  The character loses consciousness
   after one round in the Treasure Devourer's stomach. Describe the interior of
@@ -139,7 +120,7 @@ the room.
   swallowed in the stable, that character's roll-over check automatically
   succeeds. In addition to the regurgitated characters, 100 half-melted gold
   pieces, 5000 half-melted silver pieces, and 25,000 half-melted copper pieces
-  float in a puddle of steaming almost-black green sludge that drifts from the
+  float in a puddle of steaming almost-black golden-hued sludge that drifts from the
   door into the lobby. The TD retreats its door-mouth back into the Treasury if
   this happens.  If asked whether the taken character is dead, simply state that
   if the corpse can be located, the character can be turned over.
@@ -210,9 +191,10 @@ The trapdoor reveals a dusty staircase that descends into a large basement fille
   exquisite spices.
 ** Armory
 *** Read-aloud
-Three full suits of well-constructed playe armor stand upright on display diases along the eastern wall of this long room. The north and south walls are decorated with weapon racks. The western wall contains three doors.
+Three full suits of well-constructed plate armor stand upright on display diases
+along the eastern wall of this long room. The north and south walls are
+decorated with weapon racks. The western wall contains three doors.
 *** Key features
->>>>>>> b2446c7 (progress)
 - three suits of living armor
 - Living Armor - Init +0 - Atk bite +6 melee (1d7) - AC 7 - HD 3d6
 - two weapon racks
@@ -269,16 +251,41 @@ covered in splinters and dirt are extended toward you. One of the tentacles
 contains the limp, broken corpse of a horse; another ends in a doorframe, and
 another ends with a wardrobe. All three contain gaping mouths which chomp at the
 air as they extend toward you with alarming speed.
-*** TODO Key features
+*** Key features
 - Treasure Devourer
-- If
-* TODO Treasure
-** TODO Golden figurines of the lord
-** TODO Ceremonial gilded armor (poor in combat, but valuable)
-** TODO Treasure Eater's Faeces
-** TODO Treasure Eater's stomach contents
-** TODO Treasure Eater's heart
-* TODO Conclusion
-** TODO If Treasure Devourer is defeated
-** TODO If PCs run away / TPK
-** TODO Regardless, where did the spore for this TD originate...? (hook for eventual high-level adult/ancient treasure devourer adventure)
+- Init + 10
+- 1d20 action die head
+- 3d16 action die tentacles (only while tentacles remain attached)
+- Body AC 14 HP 10d8
+- Tentacle (x3) AC 10 HP 2d6
+- Atk tentacle +2 melee (1d4) range 60ft, enemy grappled on success and pulled toward mouth
+- Atk bite +4 melee (1d12) range 5ft
+- On a crit, character is swallowed and takes their next turn in the stomach.
+  One turn later they fall unconscious.
+- TD is vulnerable to fire (double damage)
+- Characters in the stomach who produce flame are regurgitated.
+- TD blood is a thick, slimy golden-hued color.
+*** Read-aloud after TD is defeated
+The monstrosity's huge mass of flesh gradually begins to cease all movement. Air
+cavities and bubbles are the last to settle. Soon, all is still in the room
+except for your breathing and the sound of blood draining from the creature.
+Slowly, the creature's body deflates as more and more thick golden blood oozes
+out of it. As the creature deflates, you realize that it was actually
+obstructing the remaining area of the room. Sinewy, stringy blood vessels and
+other organic tubes of varying thickness, including man-sized throats linked to
+the large tentacles extend from the back of the deflated corpse into the back of
+the room, where another large, bulbous bag of smooth black flesh lies. The
+outline of several man-shaped objects can be seen inside of the bag of flesh.
+*** Stomach contents
+- Swallowed characters
+- Characters swallowed less than five dungeon turns ago are alive. All other
+  swallowed characters get rolled over.
+- Half-digested corpses of the lord and his two honor guards
+- 100 half-melted gold pieces, 5000 half-melted silver pieces, and 25,000 half-melted copper pieces
+- any character who digs into the stomach and searches deeper will find 1d4
+  large pearls made of melted diamonds, rubies, and other rare gems. They are
+  bowling ball sized and smooth like a surface of glass.
+* Conclusion
+As you stand with your comrades amid the viscera and treasure, one singular
+thought begins to creep into your minds: where the hell did this thing come
+from?
